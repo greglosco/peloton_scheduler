@@ -29,3 +29,8 @@ Instructor
 Output
 Review 0.0/10
 Record? Y/N?
+
+View Calendar:
+
+Shows existing booked rides
+Can see other user history, logged rides
